@@ -24,9 +24,9 @@ September 26-28, 2025
 Here is the link -
 > https://vthacks.com  
   
-A hackathon at the University of Pittsburgh.
-September 20-21, 2025
-Here is the link -   
+A hackathon at the University of Pittsburgh.  
+September 20-21, 2025  
+Here is the link -    
 > https://steelhacks.org/
   
 A hackathon at the University of Michigan  

@@ -1,1 +1,0 @@
-/home/main/Competitive/Summer-Practice/Week_1/Hector_Vega_solutions/problem1/target/debug/problem1: /home/main/Competitive/Summer-Practice/Week_1/Hector_Vega_solutions/problem1/src/Problem1.rs /home/main/Competitive/Summer-Practice/Week_1/Hector_Vega_solutions/problem1/src/main.rs

@@ -5,3 +5,6 @@ Week_0/Anthony_Ozog_Solutions/cpp_Solutions/DNF
 Week_0/Anthony_Ozog_Solutions/cpp_Solutions/eucl-alg
 Week_0/Anthony_Ozog_Solutions/cpp_Solutions/simple_sum
 
+target/
+Cargo.lock
+Cargo.toml
